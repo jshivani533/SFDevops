@@ -3,11 +3,6 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Certification__c.Duration__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Certification__c.Expiration_Date__c</field>
         <readable>false</readable>
     </fieldPermissions>
